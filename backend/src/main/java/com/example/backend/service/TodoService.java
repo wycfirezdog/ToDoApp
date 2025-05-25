@@ -1,6 +1,8 @@
 package com.example.backend.service;
 
 import com.example.backend.model.Todo;
+import jakarta.persistence.Entity;
+
 import java.util.List;
 public interface TodoService {
     // Define the methods for the TodoService interface
